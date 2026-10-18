@@ -1,0 +1,123 @@
+[
+  {
+    "question": "How do I apply for admission?",
+    "alternatives": [
+      "How can I join the college?",
+      "What is the admission process?",
+      "I want to apply",
+      "How to get admission"
+    ],
+    "answer": "Check the college's official admissions page for current eligibility rules, application dates, and the application form. Submit the required details and documents before the published deadline. This demo does not contain live college-specific dates.",
+    "category": "Admissions"
+  },
+  {
+    "question": "Which documents are required for admission?",
+    "alternatives": [
+      "What papers should I bring?",
+      "Documents needed to join college",
+      "What certificates are required?"
+    ],
+    "answer": "Commonly requested documents may include previous examination marksheets, a transfer certificate, proof of identity, photographs, and applicable category or income certificates. Requirements differ by college; verify the official checklist.",
+    "category": "Admissions"
+  },
+  {
+    "question": "How can I find course details?",
+    "alternatives": [
+      "What courses are available?",
+      "Which degrees does the college offer?",
+      "Tell me about courses"
+    ],
+    "answer": "Visit the college's official courses or academics page to review programs, eligibility criteria, duration, and curriculum. This sample chatbot is not connected to a specific college catalogue.",
+    "category": "Courses"
+  },
+  {
+    "question": "What are the college fees?",
+    "alternatives": [
+      "How much is tuition?",
+      "Tell me the fee structure",
+      "What is the semester fee?"
+    ],
+    "answer": "Fees depend on the institution, program, and student category. Check the latest official fee structure or contact the college accounts office. Do not rely on this demo for current amounts.",
+    "category": "Fees"
+  },
+  {
+    "question": "Are scholarships available?",
+    "alternatives": [
+      "How do I apply for a scholarship?",
+      "Can students get financial aid?",
+      "Scholarship information"
+    ],
+    "answer": "Scholarships may be offered by the college or government schemes, depending on eligibility. Check official notices for deadlines, income criteria, required certificates, and application instructions.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "Where can I get my timetable?",
+    "alternatives": [
+      "When are classes?",
+      "How do I find the class schedule?",
+      "Where is the timetable posted?"
+    ],
+    "answer": "Check the college's official student portal, department noticeboard, or academic office for the latest timetable. Confirm the current version with your department.",
+    "category": "Academics"
+  },
+  {
+    "question": "How do I contact the admissions office?",
+    "alternatives": [
+      "Admissions office phone number",
+      "Who can answer admission questions?",
+      "Contact college admissions"
+    ],
+    "answer": "Use the phone number or email listed on your college's official contact page. This demo intentionally does not invent contact details for an unspecified college.",
+    "category": "Contact"
+  },
+  {
+    "question": "Where is the library?",
+    "alternatives": [
+      "How do I find the library?",
+      "Library location",
+      "Is there a college library?"
+    ],
+    "answer": "Check your campus map or ask reception or student services for the library location and opening hours. Exact details depend on the institution.",
+    "category": "Campus Facilities"
+  },
+  {
+    "question": "How can I get a student ID card?",
+    "alternatives": [
+      "I lost my ID card",
+      "Where do I apply for college ID?",
+      "Student identity card process"
+    ],
+    "answer": "Contact the student affairs office or college administration about new or replacement ID cards. They can confirm forms, identification requirements, fees if any, and processing time.",
+    "category": "Student Services"
+  },
+  {
+    "question": "What should I do if I am absent from class?",
+    "alternatives": [
+      "How do I report an absence?",
+      "Attendance rules",
+      "I missed my class"
+    ],
+    "answer": "Notify your department or instructor according to the college attendance policy. Ask whether supporting documentation is required for an approved absence.",
+    "category": "Academics"
+  },
+  {
+    "question": "How do I access the computer lab?",
+    "alternatives": [
+      "Computer lab timings",
+      "Where is the computer laboratory?",
+      "Can students use the lab?"
+    ],
+    "answer": "Ask your department or lab supervisor about access permissions, opening hours, and booking rules. Availability and policies vary by institution.",
+    "category": "Campus Facilities"
+  },
+  {
+    "question": "How do I apply for a hostel?",
+    "alternatives": [
+      "Does the college have accommodation?",
+      "Hostel admission process",
+      "How can I get a dorm room?"
+    ],
+    "answer": "Check the official hostel or student accommodation page and contact the hostel office for availability, eligibility, fees, deadlines, and required documents.",
+    "category": "Campus Facilities"
+  }
+]
